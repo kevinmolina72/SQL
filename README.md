@@ -1,4 +1,3 @@
-# SQL PORTFOLIO
-SQL PORTFOLIO
+# SQL Portfolio
 
 Welcome to my SQL portfolio! In this code repository, you will find a number of SQL projects I have worked on, here I will showcase my skills in data analysis and data manipulation using SQL
