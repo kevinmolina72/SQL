@@ -1,4 +1,4 @@
 # SQL
 SQL PORTFOLIO
 
-WELCOME TO MY SQL PORTFOLIO! HERE YOU WILL FIND EXAMPLES OF SQL I HAVE WRITTEN AND PROJECTS I HAVE WORKED ON. FEEL FREE TO TAKE A LOOK AND IF YOU HAVE ANY QUESTIONS DON'T HESITATE TO REACH OUT!
+Welcome to my SQL portfolio! In this code repository, you will find a number of SQL projects I have worked on, here I will showcase my skills in data analysis and data manipulation using SQL
